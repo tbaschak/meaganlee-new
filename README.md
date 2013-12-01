@@ -1,5 +1,5 @@
-Meagan Lee Photography Site Redesign
-====================================
+Meagan Lee Photography Redesign
+===============================
 
 This is a HTML5 redesign of Meagan Lee Photography.
 
