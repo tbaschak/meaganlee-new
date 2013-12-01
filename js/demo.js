@@ -102,4 +102,11 @@ $(function () {
         ], $('#blueimp-gallery').data());
     });
 
+$('#blueimp-gallery').data('fullScreen', true);
+var borderless = true;
+$('#blueimp-gallery').data('useBootstrapModal', !borderless);
+$('#blueimp-gallery').toggleClass('blueimp-gallery-controls', borderless);
+
+
+
 });
