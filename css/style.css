@@ -513,7 +513,7 @@
 		{
 			position: relative;
 			display: inline-block;
-			background: #df7366;
+			background: #591493;
 			color: #fff;
 			text-align: center;
 			border-radius: 0.5em;
@@ -527,7 +527,7 @@
 			.button:hover
 			{
 				color: #fff;
-				background: #ef8376;
+				background: #8A9D41;
 			}
 			
 			.button:active
