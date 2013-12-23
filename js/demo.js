@@ -22,7 +22,7 @@ $(function () {
                 '.flickr.com/services/rest/',
         data: {
             format: 'json',
-            method: 'flickr.collections.getPhotos',
+            method: 'flickr.photosets.getPhotos',
             api_key: '7212e47a02983154585e2684a64085c6',
 	    photoset_id: '72157632071324370'
         },
