@@ -24,7 +24,7 @@ $(function () {
             format: 'json',
             method: 'flickr.photosets.getPhotos',
             api_key: '7212e47a02983154585e2684a64085c6',
-	        photoset_id: '72157627786016175'
+	        photoset_id: '72157639172993336'
         },
         dataType: 'jsonp',
         jsonp: 'jsoncallback'
