@@ -5,10 +5,9 @@
 .mosaicflow__item {
 	position:relative;
 }
-
 .mosaicflow__item img {
 	display:block;
 	width:100%;
-	max-width:300px;
+	max-width:320px;
 	height:auto;
 }
