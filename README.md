@@ -8,5 +8,5 @@ Sub-Components
 
 * http://html5up.net/helios/
 * https://github.com/blueimp/Bootstrap-Image-Gallery
-
+* https://github.com/sapegin/jquery.mosaicflow
 
